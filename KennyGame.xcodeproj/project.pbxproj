@@ -12,6 +12,7 @@
 		F20712E21F67BAD700FA0B78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F20712E01F67BAD700FA0B78 /* Main.storyboard */; };
 		F20712E41F67BAD700FA0B78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F20712E31F67BAD700FA0B78 /* Assets.xcassets */; };
 		F20712E71F67BAD700FA0B78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F20712E51F67BAD700FA0B78 /* LaunchScreen.storyboard */; };
+		F20712EF1F67BB9200FA0B78 /* kenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F20712EE1F67BB9200FA0B78 /* kenny.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F20712E31F67BAD700FA0B78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F20712E61F67BAD700FA0B78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F20712E81F67BAD700FA0B78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F20712EE1F67BB9200FA0B78 /* kenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kenny.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				F20712DC1F67BAD700FA0B78 /* AppDelegate.swift */,
+				F20712EE1F67BB9200FA0B78 /* kenny.jpg */,
 				F20712DE1F67BAD700FA0B78 /* ViewController.swift */,
 				F20712E01F67BAD700FA0B78 /* Main.storyboard */,
 				F20712E31F67BAD700FA0B78 /* Assets.xcassets */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F20712E71F67BAD700FA0B78 /* LaunchScreen.storyboard in Resources */,
+				F20712EF1F67BB9200FA0B78 /* kenny.jpg in Resources */,
 				F20712E41F67BAD700FA0B78 /* Assets.xcassets in Resources */,
 				F20712E21F67BAD700FA0B78 /* Main.storyboard in Resources */,
 			);
