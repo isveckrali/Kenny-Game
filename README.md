@@ -1,2 +1,2 @@
 <h1>Kenny Game</h1>
-It is the game that finds two matching pictures.
+It is a game in which user tries find two matching pictures.
